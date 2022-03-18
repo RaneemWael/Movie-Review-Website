@@ -1,4 +1,5 @@
 # Movie-Review-Website
+A web application coded in JavaScript and HTML that is used as a simple movie database.
 
 ## Description:
 The website allows the users to lookup movies descriptions, release dates, trailers… etc. 
